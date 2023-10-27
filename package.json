@@ -1,0 +1,16 @@
+{
+  "name": "radio-macaco",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "web": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "aplayer": "^1.10.1",
+    "colorthief": "^2.2.0"
+  }
+}

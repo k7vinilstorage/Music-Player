@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#amogus {
+    color: whitesmoke;
+    align-self: center;
+}
+
+#aplayer {
+    display: block;
+    align-self: center;
+    background-color: grey;
+    width: 500px;
+    border-radius: 8px;
+}
